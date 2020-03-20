@@ -15,7 +15,7 @@ You just have to fork once. You can call `git fetch upstream` and `git pull 'bra
 
 ### Setup Pre-Commit hook
 
-Samoses uses `pre-commit` python package to make sure the formatting is right.
+This repo uses `pre-commit` python package to make sure the formatting is right.
 
 You can install using `pip install pre-commit`
 
