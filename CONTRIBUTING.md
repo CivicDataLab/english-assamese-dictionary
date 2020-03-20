@@ -8,7 +8,7 @@
 
 ### Fork
 
-To contribute to Samoses you have to fork the CivicDataLab/english-assamese-dictionary repo.
+To contribute to english-assamese-dictionary you have to fork the CivicDataLab/english-assamese-dictionary repo.
 
 You just have to fork once. You can call `git fetch upstream` and `git pull 'branch-name'` before you start your local changes to get the remote changes and be up-to-date.
 
